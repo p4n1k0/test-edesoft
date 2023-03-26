@@ -35,4 +35,3 @@ export const {
 } = allUserSlice.actions
 
 export default allUserSlice.reducer
-

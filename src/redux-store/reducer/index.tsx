@@ -1,4 +1,4 @@
-import allUserSlice from './allUserSlice.ts';
+import allUserSlice from './allUserSlice';
 
 
 const rootReducer = () => {

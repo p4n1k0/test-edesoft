@@ -5,7 +5,7 @@ import {
     getAllUserFailedAction,
     getAllUserRequestAction,
     getAllUserSuccessAction,
-} from "../reducer/allUserSlice.ts";
+} from "../reducer/allUserSlice";
 
 export const allUserRequestEpic = (action$: any, state$: any) => {
     return action$.pipe(
